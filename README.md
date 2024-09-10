@@ -1,8 +1,4 @@
-**Pemrograman Berbasis Obyek Pertemuan Ketiga**:
-
----
-
-# 📚 Penugasan Pemrograman Berbasis Obyek - Pertemuan Ketiga
+# 📚 Konsep Pemrograman Berbasis Obyek - Pertemuan Ketiga
 
 **Topik Utama:** Konsep OOP - *Abstract Class*, *Overriding*, dan *Overloading*
 
