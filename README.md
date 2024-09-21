@@ -5,11 +5,9 @@
 ---
 
 ## 📑 Table of Contents
-- [📘 Abstract Class](#abstract-class)
-- [🔄 Overriding](#overriding)
-- [➕ Overloading](#overloading)
-- [🔍 Kesimpulan](#kesimpulan)
-
+- [📘 Abstract Class](https://github.com/ervina0604/PBO3/blob/main/Pendiri.java)
+- [🔄 Overriding](https://github.com/ervina0604/PBO3/blob/main/Direktur.java)
+- [➕ Overloading](https://github.com/ervina0604/PBO3/blob/main/Karyawan.java)
 ---
 
 ## 📘 Abstract Class
